@@ -1,0 +1,2 @@
+# Investigate-a-dataset-Project
+This data set contains information about 10,000 movies collected from The Movie Database (TMDb), including user ratings and revenue.  i. Used NumPy arrays and Pandas Series and DataFrames to analyze the dataet.   ii.  Used statistical tests to draw rigorous conclusions. iii. Used varied visualization through matplotlib, seaborn and other tools to show multiple comparisons and trends. Relevant statistics are computed throughout the analysis when an inference is made about the data.
